@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Afiya1811
+- 👋 Hi, I’m Afiya 
 - 👀 I’m a beginner programmer 
 - 🌱 I’m currently learning
